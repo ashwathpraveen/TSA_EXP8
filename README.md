@@ -1,6 +1,5 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
-### Date: 
-
+### reg no.212224220012
 
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
